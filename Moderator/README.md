@@ -38,7 +38,7 @@
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
             * Additional settings
                 * Bad words list (exact match):
@@ -145,25 +145,25 @@
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
         * Server invites: `Delete Message & Warn Member`
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
         * External links: `Delete Message & Warn Member`
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
         * Excessive caps (70% > CAPS): `Warn Member`
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
         * Excessive emojis: `Warn Member`
             * Permissions
@@ -428,7 +428,7 @@
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
             * Additional settings
                 * Bad words list (exact match):
@@ -535,25 +535,25 @@
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
         * Server invites: `Delete Message & Warn Member`
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
         * External links: `Delete Message & Warn Member`
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
         * Excessive caps (70% > CAPS): `Warn Member`
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
         * Excessive emojis: `Warn Member`
             * Permissions
@@ -847,7 +847,7 @@
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
             * Additional settings
                 * Bad words list (exact match):
@@ -954,25 +954,25 @@
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
         * Server invites: `Delete Message & Warn Member`
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
         * External links: `Delete Message & Warn Member`
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
         * Excessive caps (70% > CAPS): `Warn Member`
             * Permissions
                 * Role permissions
                     * Deny for all roles except: `Enabled` and no roles selected.
-                * Channel permissions 
+                * Channel permissions
                     * Deny for all channels except: `Enabled` and no channels selected.
         * Excessive emojis: `Warn Member`
             * Permissions

@@ -46,9 +46,9 @@
         * Message:
             ```
             The user {user.mention} with Username *{user.name}* and User ID *{user.id}* has either removed the <@&1191876960771641364> role themselves or had it removed from them by an <@&1191873182471303168>.
-            
+
             As a result of the <@&1191876960771641364> role being removed, they have had all other assigned roles removed as well.
-            
+
             If they wish to re-gain access, they must read the server rules which can be found in the https://discord.com/channels/1190406648259432448/1195548408182743161 channel [here](https://discord.com/channels/1190406648259432448/1195548408182743161/1195548746574991400) and click the `✅ I agree` button to unlock the https://discord.com/channels/1190406648259432448/1191837535849168957 channel to assign themselves roles.
             ```
 
@@ -71,8 +71,8 @@
         * Message:
             ```
             The user {user.mention} with Username *{user.name}* and User ID *{user.id}* has either removed the <@&1191876960771641364> role themselves or had it removed from them by an <@&1191873182471303168>.
-            
+
             As a result of the <@&1191876960771641364> role being removed, they have had all other assigned roles removed as well.
-            
+
             If they wish to re-gain access, they must read the server rules which can be found in the https://discord.com/channels/1190406648259432448/1195548408182743161 channel [here](https://discord.com/channels/1190406648259432448/1195548408182743161/1195548746574991400) and click the `✅ I agree` button to unlock the https://discord.com/channels/1190406648259432448/1191837535849168957 channel to assign themselves roles.
             ```

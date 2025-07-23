@@ -71,14 +71,14 @@
         ![alttext](/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png)
 
     * MEE6 Icon
-        * `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+        * `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 
-        ![alttext](/Images/Bots/MEE6%20-%20128x128.png)
+        ![alttext](/Images/Bots/MEE6%20-%20512x512.png)
 
     * Arcane Premium Icon
-        * `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/Arcane%20Premium%20-%201024x1024.png`
+        * `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/Arcane%20Premium%20-%20512x512.png`
 
-        ![alttext](/Images/Bots/Arcane%20Premium%20-%201024x1024.png)
+        ![alttext](/Images/Bots/Arcane%20Premium%20-%20512x512.png)
 
     * J.A.R.V.I.S. Icon
         * `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/Cyber%20Sanctuary%20-%20Bots%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20JARVIS.png`
@@ -86,12 +86,12 @@
         ![alttext](/Images/Bots/Cyber%20Sanctuary%20-%20Bots%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20JARVIS.png)
 
 #### Cyber Sanctuary | Reaction Roles | Gaming Roles - 02/04/24 – 12:00 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -113,12 +113,12 @@
     * Satisfactory
 
 #### Cyber Sanctuary | Reaction Roles | Operating System Roles - 02/04/24 – 12:00 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -138,12 +138,12 @@
     * Windows
 
 #### Cyber Sanctuary | Reaction Roles | Gaming Roles - 03/03/24 – 12:00 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -166,12 +166,12 @@
     * Satisfactory
 
 #### Cyber Sanctuary | Reaction Roles | Operating System Roles - 03/03/24 – 12:00 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -191,12 +191,12 @@
     * Windows
 
 #### Cyber Sanctuary | Reaction Roles | Gaming Roles - 03/08/24 – 11:39 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -219,12 +219,12 @@
     * Satisfactory
 
 #### Cyber Sanctuary | Reaction Roles | Operating System Roles - 03/08/24 – 11:39 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -245,12 +245,12 @@
     * Windows
 
 #### Cyber Sanctuary | Reaction Roles | Gaming Roles - 03/08/24 – 11:40 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -271,12 +271,12 @@
     * Satisfactory
 
 #### Cyber Sanctuary | Reaction Roles | Operating System Roles - 03/08/24 – 11:40 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -296,12 +296,12 @@
     * Windows
 
 #### Cyber Sanctuary | Reaction Roles | Gaming Roles - 06/16/24 – 10:56 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -322,12 +322,12 @@
     * Satisfactory
 
 #### Cyber Sanctuary | Reaction Roles | Operating System Roles - 06/16/24 – 10:56 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -347,12 +347,12 @@
     * Windows
 
 #### Cyber Sanctuary | Reaction Roles | Gaming Roles - 09/28/24 – 12:59 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -374,12 +374,12 @@
     * Satisfactory
 
 #### Cyber Sanctuary | Reaction Roles | Operating System Roles - 09/28/24 – 12:59 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -399,12 +399,12 @@
     * Windows
 
 #### Cyber Sanctuary | Reaction Roles | Gaming Roles - 12/11/24 – 6:16 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -427,12 +427,12 @@
     * Satisfactory
 
 #### Cyber Sanctuary | Reaction Roles | Operating System Roles - 12/11/24 – 6:16 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -452,12 +452,12 @@
     * Windows
 
 #### Cyber Sanctuary | Reaction Roles | Gaming Roles - 12/14/24 – 6:59 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -480,12 +480,12 @@
     * Satisfactory
 
 #### Cyber Sanctuary | Reaction Roles | Operating System Roles - 12/14/24 – 6:59 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -505,12 +505,12 @@
     * Windows
 
 #### Cyber Sanctuary | Reaction Roles | Rules - 12/14/24 – 6:59 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Rules
@@ -534,12 +534,12 @@
     * :white_check_mark: I agree
 
 #### Cyber Sanctuary | Reaction Roles | Gaming Roles - 02/06/25 – 10:32 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -560,12 +560,12 @@
     * Satisfactory
 
 #### Cyber Sanctuary | Reaction Roles | Operating System Roles - 02/06/25 – 10:32 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -585,12 +585,12 @@
     * Windows
 
 #### Cyber Sanctuary | Reaction Roles | Rules - 02/06/25 – 10:32 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Rules
@@ -614,12 +614,12 @@
     * :white_check_mark: I agree
 
 #### Cyber Sanctuary | Reaction Roles | Gaming Roles - 02/07/25 – 9:19 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -641,12 +641,12 @@
     * Satisfactory
 
 #### Cyber Sanctuary | Reaction Roles | Operating System Roles - 02/07/25 – 9:19 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -666,12 +666,12 @@
     * Windows
 
 #### Cyber Sanctuary | Reaction Roles | Rules - 02/07/25 – 9:19 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Rules
@@ -695,12 +695,12 @@
     * :white_check_mark: I agree
 
 #### Cyber Sanctuary | Reaction Roles | Gaming Roles - 02/18/25 – 9:03 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -723,12 +723,12 @@
     * Satisfactory
 
 #### Cyber Sanctuary | Reaction Roles | Operating System Roles - 02/18/25 – 9:03 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -748,12 +748,12 @@
     * Windows
 
 #### Cyber Sanctuary | Reaction Roles | Rules - 02/18/25 – 9:03 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Rules
@@ -777,12 +777,12 @@
     * :white_check_mark: I agree
 
 #### Cyber Sanctuary | Reaction Roles | Gaming Roles - 02/22/25 – 12:50 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -806,12 +806,12 @@
     * Satisfactory
 
 #### Cyber Sanctuary | Reaction Roles | Operating System Roles - 02/22/25 – 12:50 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -831,12 +831,12 @@
     * Windows
 
 #### Cyber Sanctuary | Reaction Roles | Rules - 02/22/25 – 12:50 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Rules
@@ -860,12 +860,12 @@
     * :white_check_mark: I agree
 
 #### Cyber Sanctuary | Reaction Roles | Gaming Roles - 05/03/25 – 11:40 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
     ```
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title:
     ```
     Roles
@@ -886,7 +886,7 @@
     * Satisfactory
 
 #### Cyber Sanctuary | Reaction Roles | Gaming Roles - 05/06/25 - 9:23 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
@@ -912,7 +912,7 @@
     * Satisfactory
 
 #### Cyber Sanctuary | Reaction Roles | Operating System Roles - 05/06/25 - 9:23 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
@@ -937,7 +937,7 @@
     * Windows
 
 #### Cyber Sanctuary | Reaction Roles | Rules - 05/06/25 - 9:23 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6
@@ -966,7 +966,7 @@
     * :white_check_mark: I agree
 
 #### Cyber Sanctuary | Reaction Roles | Rules - 05/18/25 - 11:35 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header:
     ```
     MEE6

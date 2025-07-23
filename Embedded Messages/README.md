@@ -44,14 +44,14 @@
         ![alttext](/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png)
 
     * MEE6 Icon
-        * `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+        * `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 
-        ![alttext](/Images/Bots/MEE6%20-%20128x128.png)
+        ![alttext](/Images/Bots/MEE6%20-%20512x512.png)
 
     * Arcane Premium Icon
-        * `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/Arcane%20Premium%20-%201024x1024.png`
+        * `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/Arcane%20Premium%20-%20512x512.png`
 
-        ![alttext](/Images/Bots/Arcane%20Premium%20-%201024x1024.png)
+        ![alttext](/Images/Bots/Arcane%20Premium%20-%20512x512.png)
 
     * J.A.R.V.I.S. Icon
         * `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/Cyber%20Sanctuary%20-%20Bots%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20JARVIS.png`
@@ -59,9 +59,9 @@
         ![alttext](/Images/Bots/Cyber%20Sanctuary%20-%20Bots%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20JARVIS.png)
 
 #### Cyber Sanctuary | Embedded Messages | Libertas vel Mors - 02/04/24 – 10:48 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header: `MEE6`
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title: `Libertas vel Mors`
 * "Write your message here!": N/A
 * Field 1 Name: `Welcome to the Libertas vel Mors Discord community server!`
@@ -86,7 +86,7 @@
     4. English-only in voice and text channels.
     ```
 * Field 3 Name: `Mods`
-* Field 3 Value: 
+* Field 3 Value:
     ```
     If you are unsure what a moderation team is for, review the [Role of Administrators and Moderators on Discord](https://discord.com/safety/360044103531-role-of-administrators-and-moderators-on-discord) article. In essence, the moderation team is here to ensure this Discord community is a safe and welcoming place for everyone.
 
@@ -96,9 +96,9 @@
     ```
 
 #### Cyber Sanctuary | Embedded Messages | Rules - 02/04/24 – 10:48 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header: `MEE6`
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title: `Libertas vel Mors`
 * "Write your message here!": N/A
 * Field 1 Name: `Rules`
@@ -111,9 +111,9 @@
     ```
 
 #### Cyber Sanctuary | Embedded Messages | Cyber Sanctuary - 03/04/24 – 12:21 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header: `MEE6`
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title: `Cyber Sanctuary`
 * "Write your message here!": N/A
 * Field 1 Name: `Welcome to the Cyber Sanctuary Discord community server!`
@@ -138,7 +138,7 @@
     4. English-only in voice and text channels.
     ```
 * Field 3 Name: `Mods`
-* Field 3 Value: 
+* Field 3 Value:
     ```
     If you are unsure what a moderation team is for, review the [Role of Administrators and Moderators on Discord](https://discord.com/safety/360044103531-role-of-administrators-and-moderators-on-discord) article. In essence, the moderation team is here to ensure this Discord community is a safe and welcoming place for everyone.
 
@@ -148,9 +148,9 @@
     ```
 
 #### Cyber Sanctuary | Embedded Messages | Rules - 03/04/24 – 12:21 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header: `MEE6`
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title: `Cyber Sanctuary`
 * "Write your message here!": N/A
 * Field 1 Name: `Rules`
@@ -163,7 +163,7 @@
     ```
 
 #### Cyber Sanctuary | Embedded Messages | Cyber Sanctuary - 05/06/25 – 9:17 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header: `MEE6`
 * Thumbnail Image: ```https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png```
 * Title: `Cyber Sanctuary`
@@ -190,7 +190,7 @@
     4. English-only in voice and text channels.
     ```
 * Field 3 Name: `Mods`
-* Field 3 Value: 
+* Field 3 Value:
     ```
     If you are unsure what a moderation team is for, review the [Role of Administrators and Moderators on Discord](https://discord.com/safety/360044103531-role-of-administrators-and-moderators-on-discord) article. In essence, the moderation team is here to ensure this Discord community is a safe and welcoming place for everyone.
 
@@ -200,7 +200,7 @@
     ```
 
 #### Cyber Sanctuary | Embedded Messages | Rules - 05/06/25 – 9:17 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header: `MEE6`
 * Thumbnail Image: ```https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png```
 * Title: `Cyber Sanctuary`
@@ -215,7 +215,7 @@
     ```
 
 #### Cyber Sanctuary | Embedded Messages | Cyber Sanctuary - 05/18/25 – 11:28 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20128x128.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header: `MEE6`
 * Thumbnail Image: ```https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png```
 * Title: `Cyber Sanctuary`
@@ -241,10 +241,10 @@
     4. English-only in voice and text channels.
 
     Once you have read the rules, click the `✅ I agree` button to unlock the https://discord.com/channels/1190406648259432448/1191837535849168957 channel to assign yourself some roles.
-    
+
     ```
 * Field 3 Name: `Mods`
-* Field 3 Value: 
+* Field 3 Value:
     ```
     If you are unsure what a moderation team is for, review the [Role of Administrators and Moderators on Discord](https://discord.com/safety/360044103531-role-of-administrators-and-moderators-on-discord) article. In essence, the moderation team is here to ensure this Discord community is a safe and welcoming place for everyone.
 

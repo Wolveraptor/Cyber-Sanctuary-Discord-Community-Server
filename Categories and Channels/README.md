@@ -68,6 +68,7 @@
 * [Cyber Sanctuary | Categories and Channels | 05/18/25 – 12:45 PM EST](#cyber-sanctuary--categories-and-channels--051825--1245-pm-est)
 * [Cyber Sanctuary | Categories and Channels | 05/18/25 – 4:57 PM EST](#cyber-sanctuary--categories-and-channels--051825--457-pm-est)
 * [Cyber Sanctuary | Categories and Channels | 05/29/25 – 6:30 PM EST](#cyber-sanctuary--categories-and-channels--052925--630-pm-est)
+* [Cyber Sanctuary | Categories and Channels | 07/23/25 – 10:41 AM EST](#cyber-sanctuary--categories-and-channels--072325--1041-am-est)
 
 #### Cyber Sanctuary | Categories and Channels | Format and Example
 * Below is an explanation of how categories and channels are documented within this README.md.
@@ -2494,6 +2495,125 @@
     * V: 🔊・General Voice
     * V: 💤・Away From Keyboard
         * Configured as `Inactive Channel` with an `Inactive Timeout` of 5 minutes within Discord server `Server Settings` → `Cyber Sanctuary` → `Engagement`.
+* C: ╭・📢  Ashes of Creation
+    * T: 📢・ashes-of-creation-alpha-two-news
+        * Configured to follow the `alpha-two-news` announcement channel in the `Ashes of Creation` Discord server.
+* C: ╭・🎮  Ashes of Creation
+    * T: 💬・ashes-of-creation
+    * V: 🔊・Ashes of Creation
+* C: ╭・📢  Last Epoch
+    * T: 📢・last-epoch-news
+        * Configured to follow the `news` announcement channel in the `Last Epoch` Discord server.
+* C: ╭・🎮  Last Epoch
+    * T: 💬・last-epoch
+    * V: 🔊・Last Epoch
+* C: ╭・📢  Pantheon: Rise of the Fallen
+    * T: 📢・pantheon-rise-of-the-fallen-announcements
+        * Configured to follow the `announcements` announcement channel in the `Pantheon: Rise of the Fallen` Discord server.
+    * T: 📢・pantheon-rise-of-the-fallen-patch-notes
+        * Configured to follow the `patch-notes` announcement channel in the `Pantheon: Rise of the Fallen` Discord server.
+    * T: 📢・pantheon-rise-of-the-fallen-server-status
+        * Configured to follow the `server-status` announcement channel in the `Pantheon: Rise of the Fallen` Discord server.
+* C: ╭・🎮  Pantheon: Rise of the Fallen
+    * T: 💬・pantheon-rise-of-the-fallen
+    * V: 🔊・Pantheon: Rise of the Fallen
+* C: ╭・📢  Satisfactory
+    * T: 📢・satisfactory-patch-notes
+    * Configured to follow the `patch-notes` announcement channel in the `Satisfactory` Discord server.
+* C: ╭・🎮  Satisfactory
+    * T: 💬・satisfactory
+    * V: 🔊・Satisfactory
+
+#### Cyber Sanctuary | Categories and Channels | 07/23/25 – 10:41 AM EST
+* C: ╭・🌎  Cyber Sanctuary
+    * T: 📌・cyber-sanctuary
+    * T: 📑・rules
+        * Configured as `Rules or Guidelines Channel` within Discord server `Server Settings` → `Community` → `Overview`.
+    * T: 📢・announcements
+        * Configured as `Announcements` channel.
+    * T: 🪪・roles
+    * T: 📝・members
+    * T: 📊・mee6-levels
+* C: ╭・🥼  Homelab
+    * T: 📢・gitlab
+        * Configured as `Webhook` update channel for GitLab events.
+    * T: 📢・linuxgsm
+        * Configured as `Webhook` update channel for LinuxGSM events.
+    * T: 📢・synology
+        * Configured as `Webhook` update channel for Synology events.
+    * T: 📢・zabbix
+        * Configured as `Webhook` update channel for Zabbix events.
+* C: ╭・📢  MEE6
+    * T: 📢・mee6-status-updates
+        * Configured to follow the `status-updates` announcement channel in the `MEE6™ Support` Discord server.
+    * T: 📢・mee6-announcements
+        * Configured to follow the `announcements` announcement channel in the `MEE6™ Support` Discord server.
+* C: ╭・📖  MEE6 Logs
+    * T: 📖・mee6-logs
+* C: ╭・📢  Arcane Premium
+    * T: 📢・arcane-premium-changelog
+        * Configured to follow the `changelog` announcement channel in the `Arcane` Discord server.
+    * T: 📢・arcane-premium-outages
+        * Configured to follow the `outages` announcement channel in the `Arcane` Discord server.
+* C: ╭・📖  Arcane Premium Logs
+    * T: 📖・arcane-premium-member-logs
+    * T: 📖・arcane-premium-message-logs
+    * T: 📖・arcane-premium-server-logs
+    * T: 📖・arcane-premium-voice-logs
+* C: ╭・📢  Red Discord Bot (J.A.R.V.I.S.)
+    * T: 📢・red-discord-bot-red-news
+        * Configured to follow the `red-news` announcement channel in the `Red - Discord Bot` Discord server.
+* C: ╭・📖  J.A.R.V.I.S. Logs
+    * T: 📖・jarvis-channel-logs
+        * Configured as log channel for `channel_change` (updates to channel name, etc.), `channel_create`, and `channel_delete` events.
+    * T: 📖・jarvis-commands-logs
+        * Configured as log channel for `commands_used` (bot command usage) events.
+    * T: 📖・jarvis-defender-logs
+        * Configured as log channel for [`Defender Cog`](https://twentysix26.github.io/defender-docs/configuration/) events.
+    * T: 📖・jarvis-emoji-logs
+        * Configured as log channel for `emoji_change` (emojis added or deleted) events.
+    * T: 📖・jarvis-invite-logs
+        * Configured as log channel for `invite_created` and `invite_deleted` events.
+    * T: 📖・jarvis-member-logs
+        * Configured as log channel for `member_change` (member changes like roles added/removed, nicknames, etc.), `member_join` and `member_left` events.
+    * T: 📖・jarvis-message-logs
+        * Configured as log channel for `message_edit` and `message_delete` events.
+    * T: 📖・jarvis-role-logs
+        * Configured as log channel for `role_change` (role updates permissions, name, etc.), `role_create`, `role_delete` events.
+    * T: 📖・jarvis-server-settings-logs
+        * Configured as log channel for `guild_change` (server settings changed) events.
+    * T: 📖・jarvis-stickers-logs
+        * Configured as log channel for `stickers_change` events.
+    * T: 📖・jarvis-taskr-logs
+        * Configured as log channel for [`TaskR Cog`](https://github.com/vertyco/vrt-cogs/tree/main/taskr) scheduled commands.
+    * T: 📖・jarvis-thread-logs
+        * Configured as log channel for `thread_create`, `thread_delete`, and `thread_change` events.
+    * T: 📖・jarvis-voice-logs
+        * Configured as log channel for `voice_change` events.
+* C: ╭・💼  Staff
+    * T: 📢・community-updates
+        * Configured as `Community Updates Channel` within Discord server `Server Settings` → `Community` → `Overview`.
+    * T: 📢・safety-notifications
+        * Configured as `Safety Notifications Channel` within Discord server `Server Settings` → `Community` → `Overview`.
+    * T: 📖・automod-logs
+        * Configured as alert channel for actions taken by Discord's AutoMod.
+    * T: 🤖・mee6-moderator-commands
+    * T: 🤖・staff-bot-spam
+    * T: 💬・staff-text
+    * V: 🔊・Staff Voice
+    * V: 🤝・Staff Meeting
+* C: ╭・👋  General
+    * T: 🤖・general-bot-spam
+    * T: 💬・general-text
+    * V: 🔊・General Voice
+    * V: 💤・Away From Keyboard
+        * Configured as `Inactive Channel` with an `Inactive Timeout` of 5 minutes within Discord server `Server Settings` → `Cyber Sanctuary` → `Engagement`.
+* C: ╭・📢  7 Days to Die
+    * T: 📢・7-days-to-die-news
+        * Configured to follow the `news` announcement channel in the `7 Days To Die` Discord server.
+* C: ╭・🎮  7 Days to Die
+    * T: 💬・7-days-to-die
+    * V: 🔊・7-days-to-die
 * C: ╭・📢  Ashes of Creation
     * T: 📢・ashes-of-creation-alpha-two-news
         * Configured to follow the `alpha-two-news` announcement channel in the `Ashes of Creation` Discord server.
