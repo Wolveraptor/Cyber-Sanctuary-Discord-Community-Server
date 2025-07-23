@@ -2613,7 +2613,7 @@
         * Configured to follow the `news` announcement channel in the `7 Days To Die` Discord server.
 * C: ╭・🎮  7 Days to Die
     * T: 💬・7-days-to-die
-    * V: 🔊・7-days-to-die
+    * V: 🔊・7 Days to Die
 * C: ╭・📢  Ashes of Creation
     * T: 📢・ashes-of-creation-alpha-two-news
         * Configured to follow the `alpha-two-news` announcement channel in the `Ashes of Creation` Discord server.
