@@ -62,6 +62,7 @@
 * [Cyber Sanctuary | Reaction Roles | Operating System Roles - 05/06/25 - 9:23 PM EST](#cyber-sanctuary--reaction-roles--operating-system-roles---050625---923-pm-est)
 * [Cyber Sanctuary | Reaction Roles | Rules - 05/06/25 - 9:23 PM EST](#cyber-sanctuary--reaction-roles--rules---050625---923-pm-est)
 * [Cyber Sanctuary | Reaction Roles | Rules - 05/18/25 - 11:35 AM EST](#cyber-sanctuary--reaction-roles--rules---051825---1135-am-est)
+* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 09/21/25 - 5:41 PM EST](#cyber-sanctuary--reaction-roles--operating-system-roles---092125---541-pm-est)
 
 #### Cyber Sanctuary | Reaction Roles | Items to Note
 * Icons:
@@ -993,3 +994,29 @@
     ```
 * Buttons:
     * :white_check_mark: I agree
+
+#### Cyber Sanctuary | Reaction Roles | Operating System Roles - 09/21/25 - 5:41 PM EST
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
+* Header:
+    ```
+    MEE6
+    ```
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Digital%20Neon%20Cube%201%20Wolverine%20Claws%20and%20Earth%20-%20Cyber%20Sanctuary.png`
+* Title:
+    ```
+    Roles
+    ```
+* "Write your message here!": N/A
+* Field 1 Name:
+    ```
+    Operating System Roles
+    ```
+* Field 1 Value:
+    ```
+    The buttons listed below correspond to operating system roles.
+    ```
+* Buttons:
+    * Fedora
+    * MacOS
+    * Ubuntu
+    * Windows
