@@ -11,6 +11,7 @@
 <!-- omit from toc -->
 ### Cyber Sanctuary | Table of Contents
 * [Cyber Sanctuary Discord Community Server - README.md](/ssimon/Homelab/src/branch/main/README.md)
+* [Cyber Sanctuary Discord Community Server - LICENSE](/ssimon/Homelab/src/branch/main/LICENSE)
 * [Automations - README.md](/ssimon/Homelab/src/branch/main/Automations/README.md)
 * [Bad Words - README.md](/ssimon/Homelab/src/branch/main/Bad%20Words/README.md)
 * [Categories and Channels - README.md](/ssimon/Homelab/src/branch/main/Categories%20and%20Channels/README.md)
