@@ -6,7 +6,7 @@
 ## Cyber Sanctuary | About Reaction Roles
 * This README.md serves as documentation and changelog for the `MEE6` plug-in `Reaction Roles` for the `Cyber Sanctuary` Discord community server.
 
-![Cyber Sanctuary Discord Community Server Logo](https://forgejo.cybersanctuary.xyz/ssimon/Cyber-Sanctuary-Discord-Community-Server/raw/branch/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png "Cyber Sanctuary Discord Community Server Logo")
+![Cyber Sanctuary Discord Community Server Logo](/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png "Cyber Sanctuary Discord Community Server Logo")
 
 <!-- omit from toc -->
 ### Cyber Sanctuary | Table of Contents
@@ -71,7 +71,7 @@
     * Server Icon
         * `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png`
 
-        ![Cyber Sanctuary Discord Community Server Logo](https://forgejo.cybersanctuary.xyz/ssimon/Cyber-Sanctuary-Discord-Community-Server/raw/branch/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png "Cyber Sanctuary Discord Community Server Logo")
+        ![Cyber Sanctuary Discord Community Server Logo](/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png "Cyber Sanctuary Discord Community Server Logo")
 
     * MEE6 Icon
         * `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
