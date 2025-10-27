@@ -30,6 +30,7 @@
 ### Cyber Sanctuary | Automations | Table of Contents
 * [Cyber Sanctuary | Automations | Loses a Role - Agreed to Rules - 05/18/25 – 12:30 PM EST](#cyber-sanctuary--automations--loses-a-role---agreed-to-rules---051825--1230-pm-est)
 * [Cyber Sanctuary | Automations | Loses a Role - Agreed to Rules - 05/24/25 – 9:58 PM EST](#cyber-sanctuary--automations--loses-a-role---agreed-to-rules---052425--958-pm-est)
+* [Cyber Sanctuary | Automations | Loses a Role - Agreed to Rules - 10/27/25 – 12:40 PM EST](#cyber-sanctuary--automations--loses-a-role---agreed-to-rules---102725--1240-pm-est)
 
 #### Cyber Sanctuary | Automations | Loses a Role - Agreed to Rules - 05/18/25 – 12:30 PM EST
 * When Someone:
@@ -67,6 +68,31 @@
 * Do This:
     * Take these roles from the user
         * Roles: `Ashes of Creation`, `Last Epoch`, `Pantheon: Rise of the Fallen`, `Satisfactory`, `MacOS`, `Ubuntu`, and `Windows`.
+    * Send a message
+        * Channel: `📖・mee6-automations-loses-a-role-logs`
+        * Message:
+            ```
+            The user {user.mention} with Username *{user.name}* and User ID *{user.id}* has either removed the <@&1191876960771641364> role themselves or had it removed from them by an <@&1191873182471303168>.
+
+            As a result of the <@&1191876960771641364> role being removed, they have had all other assigned roles removed as well.
+
+            If they wish to re-gain access, they must read the server rules which can be found in the https://discord.com/channels/1190406648259432448/1195548408182743161 channel [here](https://discord.com/channels/1190406648259432448/1195548408182743161/1195548746574991400) and click the `✅ I agree` button to unlock the https://discord.com/channels/1190406648259432448/1191837535849168957 channel to assign themselves roles.
+            ```
+
+#### Cyber Sanctuary | Automations | Loses a Role - Agreed to Rules - 10/27/25 – 12:40 PM EST
+* When Someone:
+    * Trigger
+        * Loses a role
+* Conditions:
+    * If:
+        * The user has one of these roles
+            * Roles: `Ashes of Creation`, `Fellowship`, `Last Epoch`, ,`Luanti`, `Satisfactory`, `Fedora`, `MacOS`, `Ubuntu`, or `Windows`.
+    * And:
+        * The user lost one of these roles
+            * Roles: `Agreed to Rules`
+* Do This:
+    * Take these roles from the user
+        * Roles: `Ashes of Creation`, `Fellowship`, `Last Epoch`, ,`Luanti`, `Satisfactory`, `Fedora`, `MacOS`, `Ubuntu`, or `Windows`.
     * Send a message
         * Channel: `📖・mee6-automations-loses-a-role-logs`
         * Message:
