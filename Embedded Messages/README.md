@@ -40,29 +40,34 @@
 #### Cyber Sanctuary | Embedded Messages | Items to Note
 * Icons:
     * Server Icon
-        * `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png`
+        * `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png`
 
         ![Cyber Sanctuary Discord Community Server Logo](/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png "Cyber Sanctuary Discord Community Server Logo")
 
     * MEE6 Icon
-        * `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
+        * `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 
         ![alttext](/Images/Bots/MEE6%20-%20512x512.png)
 
     * Arcane Premium Icon
-        * `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/Arcane%20Premium%20-%20512x512.png`
+        * `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/Arcane%20Premium%20-%20512x512.png`
 
         ![alttext](/Images/Bots/Arcane%20Premium%20-%20512x512.png)
 
     * J.A.R.V.I.S. Icon
-        * `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/Cyber%20Sanctuary%20-%20Bots%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20JARVIS.png`
+        * `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/Cyber%20Sanctuary%20-%20Bots%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20JARVIS.png`
 
         ![alttext](/Images/Bots/Cyber%20Sanctuary%20-%20Bots%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20JARVIS.png)
 
+    * Ultron Icon
+        * `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/Cyber%20Sanctuary%20-%20Bots%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20ULTRON.png?ref_type=heads`
+
+        ![alttext](/Images/Bots/Cyber%20Sanctuary%20-%20Bots%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20ULTRON.png)
+
 #### Cyber Sanctuary | Embedded Messages | Libertas vel Mors - 02/04/24 – 10:48 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header: `MEE6`
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title: `Libertas vel Mors`
 * "Write your message here!": N/A
 * Field 1 Name: `Welcome to the Libertas vel Mors Discord community server!`
@@ -97,9 +102,9 @@
     ```
 
 #### Cyber Sanctuary | Embedded Messages | Rules - 02/04/24 – 10:48 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header: `MEE6`
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title: `Libertas vel Mors`
 * "Write your message here!": N/A
 * Field 1 Name: `Rules`
@@ -112,9 +117,9 @@
     ```
 
 #### Cyber Sanctuary | Embedded Messages | Cyber Sanctuary - 03/04/24 – 12:21 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header: `MEE6`
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title: `Cyber Sanctuary`
 * "Write your message here!": N/A
 * Field 1 Name: `Welcome to the Cyber Sanctuary Discord community server!`
@@ -149,9 +154,9 @@
     ```
 
 #### Cyber Sanctuary | Embedded Messages | Rules - 03/04/24 – 12:21 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header: `MEE6`
-* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Title: `Cyber Sanctuary`
 * "Write your message here!": N/A
 * Field 1 Name: `Rules`
@@ -164,9 +169,9 @@
     ```
 
 #### Cyber Sanctuary | Embedded Messages | Cyber Sanctuary - 05/06/25 – 9:17 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header: `MEE6`
-* Thumbnail Image: ```https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png```
+* Thumbnail Image: ```https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png```
 * Title: `Cyber Sanctuary`
 * "Write your message here!": N/A
 * Field 1 Name: `Welcome to the Cyber Sanctuary Discord community server!`
@@ -201,9 +206,9 @@
     ```
 
 #### Cyber Sanctuary | Embedded Messages | Rules - 05/06/25 – 9:17 PM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header: `MEE6`
-* Thumbnail Image: ```https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png```
+* Thumbnail Image: ```https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png```
 * Title: `Cyber Sanctuary`
 * "Write your message here!": N/A
 * Field 1 Name: `Rules`
@@ -216,9 +221,9 @@
     ```
 
 #### Cyber Sanctuary | Embedded Messages | Cyber Sanctuary - 05/18/25 – 11:28 AM EST
-* Avatar Image: `https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 * Header: `MEE6`
-* Thumbnail Image: ```https://gitlab.cybersanctuary.xyz/wolveraptor/cyber-sanctuary-discord-community-server/-/raw/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png```
+* Thumbnail Image: ```https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png```
 * Title: `Cyber Sanctuary`
 * "Write your message here!": N/A
 * Field 1 Name: `Welcome to the Cyber Sanctuary Discord community server!`
