@@ -67,6 +67,7 @@
 * [Cyber Sanctuary | Reaction Roles | Gaming Roles - 09/25/25 - 4:20 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---092525---420-pm-est)
 * [Cyber Sanctuary | Reaction Roles | Gaming Roles - 10/19/25 - 1:14 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---101925---114-pm-est)
 * [Cyber Sanctuary | Reaction Roles | Miscellaneous Roles - 11/01/25 - 11:26 PM EST](#cyber-sanctuary--reaction-roles--miscellaneous-roles---110125---1126-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 11/22/25 - 12:30 AM EST](#cyber-sanctuary--reaction-roles--gaming-roles---112225---1230-am-est)
 
 #### Cyber Sanctuary | Reaction Roles | Items to Note
 * Icons:
@@ -1103,3 +1104,29 @@
     ```
 * Buttons:
     * FreeStuff Notifications
+
+#### Cyber Sanctuary | Reaction Roles | Gaming Roles - 11/22/25 - 12:30 AM EST
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
+* Header:
+    ```
+    MEE6
+    ```
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png?ref_type=heads`
+* Title:
+    ```
+    Roles
+    ```
+* "Write your message here!": N/A
+* Field 1 Name:
+    ```
+    Gaming Roles
+    ```
+* Field 1 Value:
+    ```
+    The buttons listed below correspond to gaming roles.
+    ```
+* Buttons:
+    * Ashes of Creation
+    * Fellowship
+    * Last Epoch
+    * Satisfactory
