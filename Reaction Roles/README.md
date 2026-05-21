@@ -6,94 +6,94 @@
 ## Cyber Sanctuary | About Reaction Roles
 * This README.md serves as documentation and changelog for the `MEE6` plug-in `Reaction Roles` for the `Cyber Sanctuary` Discord community server.
 
-![Cyber Sanctuary Discord Community Server Logo](/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png "Cyber Sanctuary Discord Community Server Logo")
+![Cyber Sanctuary Discord Community Server Logo](../Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png "Cyber Sanctuary Discord Community Server Logo")
 
 <!-- omit from toc -->
 ### Cyber Sanctuary | Table of Contents
-* [Cyber Sanctuary Discord Community Server - README.md](/README.md)
-* [Cyber Sanctuary Discord Community Server - LICENSE](/LICENSE)
-* [Automations - README.md](/Automations/README.md)
-* [Bad Words - README.md](/Bad%20Words/README.md)
-* [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
-* [Community Roles - README.md](Community%20Roles/README.md)
-* [Community Rules - README.md](Community%20Rules/README.md)
-* [Economy - README.md](Economy/README.md)
-* [Embedded Messages - README.md](Embedded%20Messages/README.md)
-* [Help - README.md](Help/README.md)
-* [Images](Images/)
-* [Levels - README.md](Levels/README.md)
-* [Moderator - README.md](Moderator/README.md)
-* [Reaction Roles - README.md](Reaction%20Roles/README.md)
-* [Welcome & Goodbye - README.md](Welcome%20&%20Goodbye/README.md)
+* [Cyber Sanctuary Discord Community Server - README.md](../README.md)
+* [Cyber Sanctuary Discord Community Server - LICENSE](../LICENSE)
+* [Automations - README.md](../Automations/README.md)
+* [Bad Words - README.md](../Bad%20Words/README.md)
+* [Categories and Channels - README.md](../Categories%20and%20Channels/README.md)
+* [Community Roles - README.md](../Community%20Roles/README.md)
+* [Community Rules - README.md](../Community%20Rules/README.md)
+* [Economy - README.md](../Economy/README.md)
+* [Embedded Messages - README.md](../Embedded%20Messages/README.md)
+* [Help - README.md](../Help/README.md)
+* [Images](../Images/)
+* [Levels - README.md](../Levels/README.md)
+* [Moderator - README.md](../Moderator/README.md)
+* [Reaction Roles - README.md](../Reaction%20Roles/README.md)
+* [Welcome & Goodbye - README.md](../Welcome%20&%20Goodbye/README.md)
 
 <!-- omit from toc -->
 ### Cyber Sanctuary | Reaction Roles | Table of Contents
-* [Cyber Sanctuary | Reaction Roles | Items to Note](#cyber-sanctuary--reaction-roles--items-to-note)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 02/04/24 – 12:00 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---020424--1200-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 02/04/24 – 12:00 PM EST](#cyber-sanctuary--reaction-roles--operating-system-roles---020424--1200-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 03/03/24 – 12:00 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---030324--1200-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 03/03/24 – 12:00 PM EST](#cyber-sanctuary--reaction-roles--operating-system-roles---030324--1200-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 03/08/24 – 11:39 AM EST](#cyber-sanctuary--reaction-roles--gaming-roles---030824--1139-am-est)
-* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 03/08/24 – 11:39 AM EST](#cyber-sanctuary--reaction-roles--operating-system-roles---030824--1139-am-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 03/08/24 – 11:40 AM EST](#cyber-sanctuary--reaction-roles--gaming-roles---030824--1140-am-est)
-* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 03/08/24 – 11:40 AM EST](#cyber-sanctuary--reaction-roles--operating-system-roles---030824--1140-am-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 06/16/24 – 10:56 AM EST](#cyber-sanctuary--reaction-roles--gaming-roles---061624--1056-am-est)
-* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 06/16/24 – 10:56 AM EST](#cyber-sanctuary--reaction-roles--operating-system-roles---061624--1056-am-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 09/28/24 – 12:59 AM EST](#cyber-sanctuary--reaction-roles--gaming-roles---092824--1259-am-est)
-* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 09/28/24 – 12:59 AM EST](#cyber-sanctuary--reaction-roles--operating-system-roles---092824--1259-am-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 12/11/24 – 6:16 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---121124--616-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 12/11/24 – 6:16 PM EST](#cyber-sanctuary--reaction-roles--operating-system-roles---121124--616-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 12/14/24 – 6:59 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---121424--659-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 12/14/24 – 6:59 PM EST](#cyber-sanctuary--reaction-roles--operating-system-roles---121424--659-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Rules - 12/14/24 – 6:59 PM EST](#cyber-sanctuary--reaction-roles--rules---121424--659-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 02/06/25 – 10:32 AM EST](#cyber-sanctuary--reaction-roles--gaming-roles---020625--1032-am-est)
-* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 02/06/25 – 10:32 AM EST](#cyber-sanctuary--reaction-roles--operating-system-roles---020625--1032-am-est)
-* [Cyber Sanctuary | Reaction Roles | Rules - 02/06/25 – 10:32 AM EST](#cyber-sanctuary--reaction-roles--rules---020625--1032-am-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 02/07/25 – 9:19 AM EST](#cyber-sanctuary--reaction-roles--gaming-roles---020725--919-am-est)
-* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 02/07/25 – 9:19 AM EST](#cyber-sanctuary--reaction-roles--operating-system-roles---020725--919-am-est)
-* [Cyber Sanctuary | Reaction Roles | Rules - 02/07/25 – 9:19 AM EST](#cyber-sanctuary--reaction-roles--rules---020725--919-am-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 02/18/25 – 9:03 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---021825--903-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 02/18/25 – 9:03 PM EST](#cyber-sanctuary--reaction-roles--operating-system-roles---021825--903-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Rules - 02/18/25 – 9:03 PM EST](#cyber-sanctuary--reaction-roles--rules---021825--903-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 02/22/25 – 12:50 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---022225--1250-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 02/22/25 – 12:50 PM EST](#cyber-sanctuary--reaction-roles--operating-system-roles---022225--1250-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Rules - 02/22/25 – 12:50 PM EST](#cyber-sanctuary--reaction-roles--rules---022225--1250-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 05/03/25 – 11:40 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---050325--1140-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 05/06/25 - 9:23 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---050625---923-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 05/06/25 - 9:23 PM EST](#cyber-sanctuary--reaction-roles--operating-system-roles---050625---923-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Rules - 05/06/25 - 9:23 PM EST](#cyber-sanctuary--reaction-roles--rules---050625---923-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Rules - 05/18/25 - 11:35 AM EST](#cyber-sanctuary--reaction-roles--rules---051825---1135-am-est)
-* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 09/21/25 - 5:41 PM EST](#cyber-sanctuary--reaction-roles--operating-system-roles---092125---541-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 09/25/25 - 4:20 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---092525---420-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 10/19/25 - 1:14 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---101925---114-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Miscellaneous Roles - 11/01/25 - 11:26 PM EST](#cyber-sanctuary--reaction-roles--miscellaneous-roles---110125---1126-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 11/22/25 - 12:30 AM EST](#cyber-sanctuary--reaction-roles--gaming-roles---112225---1230-am-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 120625 - 3:10 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---120625---310-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 120625 - 3:10 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---120625---310-pm-est-1)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 022326 - 2:17 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---022326---217-pm-est)
-* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 032826 - 8:36 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---032826---836-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Items to Note](#cyber-sanctuary-reaction-roles-items-to-note)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 02/04/24 – 12:00 PM EST](#cyber-sanctuary-reaction-roles-gaming-roles-02-04-24-12-00-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 02/04/24 – 12:00 PM EST](#cyber-sanctuary-reaction-roles-operating-system-roles-02-04-24-12-00-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 03/03/24 – 12:00 PM EST](#cyber-sanctuary-reaction-roles-gaming-roles-03-03-24-12-00-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 03/03/24 – 12:00 PM EST](#cyber-sanctuary-reaction-roles-operating-system-roles-03-03-24-12-00-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 03/08/24 – 11:39 AM EST](#cyber-sanctuary-reaction-roles-gaming-roles-03-08-24-11-39-am-est)
+* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 03/08/24 – 11:39 AM EST](#cyber-sanctuary-reaction-roles-operating-system-roles-03-08-24-11-39-am-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 03/08/24 – 11:40 AM EST](#cyber-sanctuary-reaction-roles-gaming-roles-03-08-24-11-40-am-est)
+* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 03/08/24 – 11:40 AM EST](#cyber-sanctuary-reaction-roles-operating-system-roles-03-08-24-11-40-am-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 06/16/24 – 10:56 AM EST](#cyber-sanctuary-reaction-roles-gaming-roles-06-16-24-10-56-am-est)
+* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 06/16/24 – 10:56 AM EST](#cyber-sanctuary-reaction-roles-operating-system-roles-06-16-24-10-56-am-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 09/28/24 – 12:59 AM EST](#cyber-sanctuary-reaction-roles-gaming-roles-09-28-24-12-59-am-est)
+* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 09/28/24 – 12:59 AM EST](#cyber-sanctuary-reaction-roles-operating-system-roles-09-28-24-12-59-am-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 12/11/24 – 6:16 PM EST](#cyber-sanctuary-reaction-roles-gaming-roles-12-11-24-6-16-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 12/11/24 – 6:16 PM EST](#cyber-sanctuary-reaction-roles-operating-system-roles-12-11-24-6-16-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 12/14/24 – 6:59 PM EST](#cyber-sanctuary-reaction-roles-gaming-roles-12-14-24-6-59-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 12/14/24 – 6:59 PM EST](#cyber-sanctuary-reaction-roles-operating-system-roles-12-14-24-6-59-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Rules - 12/14/24 – 6:59 PM EST](#cyber-sanctuary-reaction-roles-rules-12-14-24-6-59-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 02/06/25 – 10:32 AM EST](#cyber-sanctuary-reaction-roles-gaming-roles-02-06-25-10-32-am-est)
+* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 02/06/25 – 10:32 AM EST](#cyber-sanctuary-reaction-roles-operating-system-roles-02-06-25-10-32-am-est)
+* [Cyber Sanctuary | Reaction Roles | Rules - 02/06/25 – 10:32 AM EST](#cyber-sanctuary-reaction-roles-rules-02-06-25-10-32-am-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 02/07/25 – 9:19 AM EST](#cyber-sanctuary-reaction-roles-gaming-roles-02-07-25-9-19-am-est)
+* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 02/07/25 – 9:19 AM EST](#cyber-sanctuary-reaction-roles-operating-system-roles-02-07-25-9-19-am-est)
+* [Cyber Sanctuary | Reaction Roles | Rules - 02/07/25 – 9:19 AM EST](#cyber-sanctuary-reaction-roles-rules-02-07-25-9-19-am-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 02/18/25 – 9:03 PM EST](#cyber-sanctuary-reaction-roles-gaming-roles-02-18-25-9-03-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 02/18/25 – 9:03 PM EST](#cyber-sanctuary-reaction-roles-operating-system-roles-02-18-25-9-03-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Rules - 02/18/25 – 9:03 PM EST](#cyber-sanctuary-reaction-roles-rules-02-18-25-9-03-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 02/22/25 – 12:50 PM EST](#cyber-sanctuary-reaction-roles-gaming-roles-02-22-25-12-50-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 02/22/25 – 12:50 PM EST](#cyber-sanctuary-reaction-roles-operating-system-roles-02-22-25-12-50-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Rules - 02/22/25 – 12:50 PM EST](#cyber-sanctuary-reaction-roles-rules-02-22-25-12-50-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 05/03/25 – 11:40 PM EST](#cyber-sanctuary-reaction-roles-gaming-roles-05-03-25-11-40-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 05/06/25 - 9:23 PM EST](#cyber-sanctuary-reaction-roles-gaming-roles-05-06-25-9-23-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 05/06/25 - 9:23 PM EST](#cyber-sanctuary-reaction-roles-operating-system-roles-05-06-25-9-23-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Rules - 05/06/25 - 9:23 PM EST](#cyber-sanctuary-reaction-roles-rules-05-06-25-9-23-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Rules - 05/18/25 - 11:35 AM EST](#cyber-sanctuary-reaction-roles-rules-05-18-25-11-35-am-est)
+* [Cyber Sanctuary | Reaction Roles | Operating System Roles - 09/21/25 - 5:41 PM EST](#cyber-sanctuary-reaction-roles-operating-system-roles-09-21-25-5-41-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 09/25/25 - 4:20 PM EST](#cyber-sanctuary-reaction-roles-gaming-roles-09-25-25-4-20-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 10/19/25 - 1:14 PM EST](#cyber-sanctuary-reaction-roles-gaming-roles-10-19-25-1-14-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Miscellaneous Roles - 11/01/25 - 11:26 PM EST](#cyber-sanctuary-reaction-roles-miscellaneous-roles-11-01-25-11-26-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 11/22/25 - 12:30 AM EST](#cyber-sanctuary-reaction-roles-gaming-roles-11-22-25-12-30-am-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 120625 - 3:10 PM EST](#cyber-sanctuary-reaction-roles-gaming-roles-120625-3-10-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 120625 - 3:10 PM EST](#cyber-sanctuary-reaction-roles-gaming-roles-120625-3-10-pm-est-1)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 022326 - 2:17 PM EST](#cyber-sanctuary-reaction-roles-gaming-roles-022326-2-17-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 032826 - 8:36 PM EST](#cyber-sanctuary-reaction-roles-gaming-roles-032826-8-36-pm-est)
 
 #### Cyber Sanctuary | Reaction Roles | Items to Note
 * Icons:
     * Server Icon
         * `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png`
 
-        ![Cyber Sanctuary Discord Community Server Logo](/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png "Cyber Sanctuary Discord Community Server Logo")
+        ![Cyber Sanctuary Discord Community Server Logo](../Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png "Cyber Sanctuary Discord Community Server Logo")
 
     * MEE6 Icon
         * `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
 
-        ![alttext](/Images/Bots/MEE6%20-%20512x512.png)
+        ![alttext](../Images/Bots/MEE6%20-%20512x512.png)
 
     * Arcane Premium Icon
         * `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/Arcane%20Premium%20-%20512x512.png`
 
-        ![alttext](/Images/Bots/Arcane%20Premium%20-%20512x512.png)
+        ![alttext](../Images/Bots/Arcane%20Premium%20-%20512x512.png)
 
     * J.A.R.V.I.S. Icon
         * `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/Cyber%20Sanctuary%20-%20Bots%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20JARVIS.png`
 
-        ![alttext](/Images/Bots/Cyber%20Sanctuary%20-%20Bots%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20JARVIS.png)
+        ![alttext](../Images/Bots/Cyber%20Sanctuary%20-%20Bots%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20JARVIS.png)
 
 #### Cyber Sanctuary | Reaction Roles | Gaming Roles - 02/04/24 – 12:00 PM EST
 * Avatar Image: `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
