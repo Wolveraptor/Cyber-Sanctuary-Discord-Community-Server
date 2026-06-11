@@ -10,25 +10,25 @@
 
 <!-- omit from toc -->
 ### Cyber Sanctuary | Table of Contents
-* [Cyber Sanctuary Discord Community Server - README.md](../README.md)
-* [Cyber Sanctuary Discord Community Server - LICENSE](../LICENSE)
-* [Automations - README.md](../Automations/README.md)
-* [Bad Words - README.md](../Bad%20Words/README.md)
-* [Categories and Channels - README.md](../Categories%20and%20Channels/README.md)
-* [Community Roles - README.md](../Community%20Roles/README.md)
-* [Community Rules - README.md](../Community%20Rules/README.md)
-* [Economy - README.md](../Economy/README.md)
-* [Embedded Messages - README.md](../Embedded%20Messages/README.md)
-* [Help - README.md](../Help/README.md)
-* [Images](../Images/)
-* [Levels - README.md](../Levels/README.md)
-* [Moderator - README.md](../Moderator/README.md)
-* [Reaction Roles - README.md](../Reaction%20Roles/README.md)
-* [Welcome & Goodbye - README.md](../Welcome%20&%20Goodbye/README.md)
+* [Cyber Sanctuary Discord Community Server - README.md](/README.md)
+* [Cyber Sanctuary Discord Community Server - LICENSE](/LICENSE)
+* [Automations - README.md](/Automations/README.md)
+* [Bad Words - README.md](/Bad%20Words/README.md)
+* [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
+* [Community Roles - README.md](/Community%20Roles/README.md)
+* [Community Rules - README.md](/Community%20Rules/README.md)
+* [Economy - README.md](/Economy/README.md)
+* [Embedded Messages - README.md](/Embedded%20Messages/README.md)
+* [Help - README.md](/Help/README.md)
+* [Images](/Images/)
+* [Levels - README.md](/Levels/README.md)
+* [Moderator - README.md](/Moderator/README.md)
+* [Reaction Roles - README.md](/Reaction%20Roles/README.md)
+* [Welcome & Goodbye - README.md](/Welcome%20&%20Goodbye/README.md)
 
 <!-- omit from toc -->
 ### Cyber Sanctuary | Economy | Table of Contents
-* [Cyber Sanctuary | Economy | 05/18/25 – 5:18 PM EST](#cyber-sanctuary-economy-05-18-25-5-18-pm-est)
+* [Cyber Sanctuary | Economy | 05/18/25 – 5:18 PM EST](#cyber-sanctuary--economy--051825--518-pm-est)
 
 #### Cyber Sanctuary | Economy | 05/18/25 – 5:18 PM EST
 * Customize your currency

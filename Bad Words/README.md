@@ -10,26 +10,26 @@
 
 <!-- omit from toc -->
 ### Cyber Sanctuary | Table of Contents
-* [Cyber Sanctuary Discord Community Server - README.md](../README.md)
-* [Cyber Sanctuary Discord Community Server - LICENSE](../LICENSE)
-* [Automations - README.md](../Automations/README.md)
-* [Bad Words - README.md](../Bad%20Words/README.md)
-* [Categories and Channels - README.md](../Categories%20and%20Channels/README.md)
-* [Community Roles - README.md](../Community%20Roles/README.md)
-* [Community Rules - README.md](../Community%20Rules/README.md)
-* [Economy - README.md](../Economy/README.md)
-* [Embedded Messages - README.md](../Embedded%20Messages/README.md)
-* [Help - README.md](../Help/README.md)
-* [Images](../Images/)
-* [Levels - README.md](../Levels/README.md)
-* [Moderator - README.md](../Moderator/README.md)
-* [Reaction Roles - README.md](../Reaction%20Roles/README.md)
-* [Welcome & Goodbye - README.md](../Welcome%20&%20Goodbye/README.md)
+* [Cyber Sanctuary Discord Community Server - README.md](/README.md)
+* [Cyber Sanctuary Discord Community Server - LICENSE](/LICENSE)
+* [Automations - README.md](/Automations/README.md)
+* [Bad Words - README.md](/Bad%20Words/README.md)
+* [Categories and Channels - README.md](/Categories%20and%20Channels/README.md)
+* [Community Roles - README.md](/Community%20Roles/README.md)
+* [Community Rules - README.md](/Community%20Rules/README.md)
+* [Economy - README.md](/Economy/README.md)
+* [Embedded Messages - README.md](/Embedded%20Messages/README.md)
+* [Help - README.md](/Help/README.md)
+* [Images](/Images/)
+* [Levels - README.md](/Levels/README.md)
+* [Moderator - README.md](/Moderator/README.md)
+* [Reaction Roles - README.md](/Reaction%20Roles/README.md)
+* [Welcome & Goodbye - README.md](/Welcome%20&%20Goodbye/README.md)
 
 <!-- omit from toc -->
 ### Cyber Sanctuary | Bad Words | Table of Contents
-* [Cyber Sanctuary | Bad Words | 01/09/24 – 10:23 AM EST](#cyber-sanctuary-bad-words-01-09-24-10-23-am-est)
-* [Cyber Sanctuary | Bad Words | 02/04/24 – 9:57 AM EST](#cyber-sanctuary-bad-words-02-04-24-9-57-am-est)
+* [Cyber Sanctuary | Bad Words | 01/09/24 – 10:23 AM EST](#cyber-sanctuary--bad-words--010924--1023-am-est)
+* [Cyber Sanctuary | Bad Words | 02/04/24 – 9:57 AM EST](#cyber-sanctuary--bad-words--020424--957-am-est)
 
 #### Cyber Sanctuary | Bad Words | 01/09/24 – 10:23 AM EST
 * Formatted for use with Discord's AutoMod:
