@@ -72,6 +72,7 @@
 * [Cyber Sanctuary | Reaction Roles | Gaming Roles - 120625 - 3:10 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---120625---310-pm-est-1)
 * [Cyber Sanctuary | Reaction Roles | Gaming Roles - 022326 - 2:17 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---022326---217-pm-est)
 * [Cyber Sanctuary | Reaction Roles | Gaming Roles - 032826 - 8:36 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---032826---836-pm-est)
+* [Cyber Sanctuary | Reaction Roles | Gaming Roles - 061426 - 4:28 PM EST](#cyber-sanctuary--reaction-roles--gaming-roles---061426---428-pm-est)
 
 #### Cyber Sanctuary | Reaction Roles | Items to Note
 * Icons:
@@ -1243,6 +1244,36 @@
     * Factorio
     * Fellowship
     * Forza
+    * HELLDIVERS™ 2
+    * Last Epoch
+    * Satisfactory
+
+#### Cyber Sanctuary | Reaction Roles | Gaming Roles - 061426 - 4:28 PM EST
+* Avatar Image: `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Bots/MEE6%20-%20512x512.png`
+* Header:
+    ```
+    MEE6
+    ```
+* Thumbnail Image: `https://gitlab.cybersanctuary.xyz/ssimon/cyber-sanctuary-discord-community-server/-/raw/main/Images/Server%20Icons/Cyber%20Sanctuary%20-%20Server%20Icons%20-%20512x512%20-%20Earth%20from%20Space%201%20-%20Cyber%20Sanctuary.png?ref_type=heads`
+* Title:
+    ```
+    Roles
+    ```
+* "Write your message here!": N/A
+* Field 1 Name:
+    ```
+    Gaming Roles
+    ```
+* Field 1 Value:
+    ```
+    The buttons listed below correspond to gaming roles.
+    ```
+* Buttons:
+    * EXOME
+    * Factorio
+    * Fellowship
+    * Forza
+    * Gray Zone Warfare
     * HELLDIVERS™ 2
     * Last Epoch
     * Satisfactory
