@@ -80,6 +80,7 @@
 * [Cyber Sanctuary | Categories and Channels | 02/23/26 - 2:16 PM EST](#cyber-sanctuary--categories-and-channels--022326---216-pm-est)
 * [Cyber Sanctuary | Categories and Channels | 03/28/26 - 8:28 PM EST](#cyber-sanctuary--categories-and-channels--032826---828-pm-est)
 * [Cyber Sanctuary | Categories and Channels | 06/14/26 - 4:28 PM EST](#cyber-sanctuary--categories-and-channels--061426---428-pm-est)
+* [Cyber Sanctuary | Categories and Channels | 06/19/26 - 11:45 AM EST](#cyber-sanctuary--categories-and-channels--061926---1145-am-est)
 
 #### Cyber Sanctuary | Categories and Channels | Format and Example
 * Below is an explanation of how categories and channels are documented within this README.md.
@@ -3749,6 +3750,150 @@
 * C: ╭・🥼  Homelab
     * T: 📢・forgejo
         * Configured as `Webhook` update channel for Forgejo events.
+    * T: 📢・linuxgsm
+        * Configured as `Webhook` update channel for LinuxGSM events.
+    * T: 📢・synology
+        * Configured as `Webhook` update channel for Synology events.
+* C: ╭・📢  MEE6
+    * T: 📢・mee6-status-updates
+        * Configured to follow the `status-updates` announcement channel in the `MEE6™ Support` Discord server.
+    * T: 📢・mee6-announcements
+        * Configured to follow the `announcements` announcement channel in the `MEE6™ Support` Discord server.
+* C: ╭・📖  MEE6 Logs
+    * T: 📖・mee6-logs
+* C: ╭・📢  Arcane Premium
+    * T: 📢・arcane-premium-changelog
+        * Configured to follow the `changelog` announcement channel in the `Arcane` Discord server.
+    * T: 📢・arcane-premium-outages
+        * Configured to follow the `outages` announcement channel in the `Arcane` Discord server.
+* C: ╭・📖  Arcane Premium Logs
+    * T: 📖・arcane-premium-member-logs
+    * T: 📖・arcane-premium-message-logs
+    * T: 📖・arcane-premium-server-logs
+    * T: 📖・arcane-premium-voice-logs
+* C: ╭・📢  Red Discord Bot (J.A.R.V.I.S.)
+    * T: 📢・red-discord-bot-red-news
+        * Configured to follow the `red-news` announcement channel in the `Red - Discord Bot` Discord server.
+* C: ╭・📖  J.A.R.V.I.S. Logs
+    * T: 📖・jarvis-channel-logs
+        * Configured as log channel for `channel_change` (updates to channel name, etc.), `channel_create`, and `channel_delete` events.
+    * T: 📖・jarvis-commands-logs
+        * Configured as log channel for `commands_used` (bot command usage) events.
+    * T: 📖・jarvis-defender-logs
+        * Configured as log channel for [`Defender Cog`](https://twentysix26.github.io/defender-docs/configuration/) events.
+    * T: 📖・jarvis-emoji-logs
+        * Configured as log channel for `emoji_change` (emojis added or deleted) events.
+    * T: 📖・jarvis-invite-logs
+        * Configured as log channel for `invite_created` and `invite_deleted` events.
+    * T: 📖・jarvis-member-logs
+        * Configured as log channel for `member_change` (member changes like roles added/removed, nicknames, etc.), `member_join` and `member_left` events.
+    * T: 📖・jarvis-message-logs
+        * Configured as log channel for `message_edit` and `message_delete` events.
+    * T: 📖・jarvis-role-logs
+        * Configured as log channel for `role_change` (role updates permissions, name, etc.), `role_create`, `role_delete` events.
+    * T: 📖・jarvis-server-settings-logs
+        * Configured as log channel for `guild_change` (server settings changed) events.
+    * T: 📖・jarvis-stickers-logs
+        * Configured as log channel for `stickers_change` events.
+    * T: 📖・jarvis-taskr-logs
+        * Configured as log channel for [`TaskR Cog`](https://github.com/vertyco/vrt-cogs/tree/main/taskr) scheduled commands.
+    * T: 📖・jarvis-thread-logs
+        * Configured as log channel for `thread_create`, `thread_delete`, and `thread_change` events.
+    * T: 📖・jarvis-voice-logs
+        * Configured as log channel for `voice_change` events.
+* C: ╭・💼  Staff
+    * T: 📢・community-updates
+        * Configured as `Community Updates Channel` within Discord server `Server Settings` → `Community` → `Overview`.
+    * T: 📢・safety-notifications
+        * Configured as `Safety Notifications Channel` within Discord server `Server Settings` → `Community` → `Overview`.
+    * T: 📖・automod-logs
+        * Configured as alert channel for actions taken by Discord's AutoMod.
+    * T: 🤖・mee6-moderator-commands
+    * T: 🤖・staff-bot-spam
+    * T: 💬・staff-text
+    * V: 🔊・Staff Voice
+    * V: 🤝・Staff Meeting
+* C: ╭・👋  General
+    * T: 🤖・general-bot-spam
+    * T: 💬・general-text
+    * V: 🔊・General Voice
+    * V: 💤・Away From Keyboard
+        * Configured as `Inactive Channel` with an `Inactive Timeout` of 5 minutes within Discord server `Server Settings` → `Cyber Sanctuary` → `Engagement`.
+* C: ╭・🖥️  Operating Systems
+    * T: 💬・fedora
+    * T: 💬・macos
+    * T: 💬・ubuntu
+    * T: 💬・windows
+* C: ╭・📢  EXOME
+    * T: 📢・exome-announcements
+        * Configured to follow the `announcements` announcement channel in the `EXOME` Discord server.
+    * T: 📢・exome-updates
+        * Configured to follow the `updates` announcement channel in the `EXOME` Discord server.
+* C: ╭・🎮  EXOME
+    * T: 💬・exome
+    * V: 🔊・EXOME
+* C: ╭・📢  Factorio
+    * T: 📢・factorio-announcements
+        * Configured to follow the `announcements` announcement channel in the `Factorio` Discord server.
+* C: ╭・🎮  Factorio
+    * T: 💬・factorio
+    * V: 🔊・Factorio
+* C: ╭・📢  Fellowship
+    * T: 📢・fellowship-announcements
+        * Configured to follow the `announcements` announcement channel in the `Fellowship` Discord server.
+* C: ╭・🎮  Fellowship
+    * T: 💬・fellowship
+    * V: 🔊・Fellowship
+* C: ╭・📢  Forza
+    * T: 📢・forza-announcements
+        * Configured to follow the `announcements` announcement channel in the `Forza` Discord server.
+    * T: 📢・forza-horizon-announcements
+        * Configured to follow the `horizon-announcements` announcement channel in the `Forza` Discord server.
+* C: ╭・🎮  Forza
+    * T: 💬・forza
+    * V: 🔊・Forza
+* C: ╭・📢  Gray Zone Warfare
+    * T: 📢・gray-zone-warfare-news
+        * Configured to follow the `gzw-news` announcement channel in the `Gray Zone Warfare` Discord server.
+    * T: 📢・gray-zone-warfare-development-news
+        * Configured to follow the `development-news` announcement channel in the `Gray Zone Warfare` Discord server.
+* C: ╭・🎮  Gray Zone Warfare
+    * T: 💬・gray-zone-warfare
+    * V: 🔊・Gray Zone Warfare
+* C: ╭・📢  HELLDIVERS™ 2
+    * T: 📢・helldivers™-2-hd2-announcements
+        * Configured to follow the `hd2-announcements` announcement channel in the `HELLDIVERS™ 2` Discord server.
+    * T: 📢・helldivers™-2-patch-notes-updates
+        * Configured to follow the `patch-notes-updates` announcement channel in the `HELLDIVERS™ 2` Discord server.
+* C: ╭・🎮  HELLDIVERS™ 2
+    * T: 💬・helldivers™-2
+    * V: 🔊・HELLDIVERS™ 2
+* C: ╭・📢  Last Epoch
+    * T: 📢・last-epoch-news
+        * Configured to follow the `news` announcement channel in the `Last Epoch` Discord server.
+* C: ╭・🎮  Last Epoch
+    * T: 💬・last-epoch
+    * V: 🔊・Last Epoch
+* C: ╭・📢  Satisfactory
+    * T: 📢・satisfactory-patch-notes
+    * Configured to follow the `patch-notes` announcement channel in the `Satisfactory` Discord server.
+* C: ╭・🎮  Satisfactory
+    * T: 💬・satisfactory
+    * V: 🔊・Satisfactory
+
+#### Cyber Sanctuary | Categories and Channels | 06/19/26 - 11:45 AM EST
+* C: ╭・🌎  Cyber Sanctuary
+    * T: 📌・cyber-sanctuary
+    * T: 📑・rules
+        * Configured as `Rules or Guidelines Channel` within Discord server `Server Settings` → `Community` → `Overview`.
+    * T: 📢・announcements
+        * Configured as `Announcements` channel.
+    * T: 🪪・roles
+    * T: 📝・members
+    * T: 📊・mee6-levels
+* C: ╭・🥼  Homelab
+    * T: 📢・gitlab
+        * Configured as `Webhook` update channel for GitLab events.
     * T: 📢・linuxgsm
         * Configured as `Webhook` update channel for LinuxGSM events.
     * T: 📢・synology
