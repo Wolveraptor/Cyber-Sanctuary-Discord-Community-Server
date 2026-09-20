@@ -24,4 +24,5 @@
 * [Levels - README.md](/Levels/README.md)
 * [Moderator - README.md](/Moderator/README.md)
 * [Reaction Roles - README.md](/Reaction%20Roles/README.md)
+* [Soundboard](/Soundboard/)
 * [Welcome & Goodbye - README.md](/Welcome%20&%20Goodbye/README.md)
