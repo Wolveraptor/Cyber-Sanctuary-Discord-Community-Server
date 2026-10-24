@@ -1,6 +1,6 @@
 <!-- omit from toc -->
 # Cyber Sanctuary | Discord Community Server
-* `Cyber Sanctuary` Discord community server GitLab repository.
+* `Cyber Sanctuary` Discord community server Forgejo repository.
 
 <!-- omit from toc -->
 ## Cyber Sanctuary | About this Repository
